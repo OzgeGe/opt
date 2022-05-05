@@ -1,5 +1,5 @@
 # opt
 
-This repositeory describes 
+This repository describes 
 
 CC-BY-4.0
