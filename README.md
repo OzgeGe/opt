@@ -1,4 +1,4 @@
-# Optimal food supply 
+# Optimal food supplies
 
 This repository describes the methodology undertaken to find the optimal solution space to close the nutrient gap. 
 
